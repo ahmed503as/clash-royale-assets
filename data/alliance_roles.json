@@ -11,7 +11,8 @@
     "canSendWarBattlesNotification": false,
     "canBePromotedToLeader": false,
     "canPromoteToOwnLevel": false,
-    "scid": 59000000
+    "scid": 59000000,
+    "id": 0
   },
   {
     "name": "Member",
@@ -26,7 +27,8 @@
     "canSendWarBattlesNotification": false,
     "canBePromotedToLeader": false,
     "canPromoteToOwnLevel": false,
-    "scid": 59000001
+    "scid": 59000001,
+    "id": 1
   },
   {
     "name": "Leader",
@@ -41,7 +43,8 @@
     "canSendWarBattlesNotification": true,
     "canBePromotedToLeader": true,
     "canPromoteToOwnLevel": false,
-    "scid": 59000002
+    "scid": 59000002,
+    "id": 2
   },
   {
     "name": "Elder",
@@ -56,7 +59,8 @@
     "canSendWarBattlesNotification": false,
     "canBePromotedToLeader": false,
     "canPromoteToOwnLevel": false,
-    "scid": 59000003
+    "scid": 59000003,
+    "id": 3
   },
   {
     "name": "Co-leader",
@@ -71,6 +75,7 @@
     "canSendWarBattlesNotification": true,
     "canBePromotedToLeader": true,
     "canPromoteToOwnLevel": true,
-    "scid": 59000004
+    "scid": 59000004,
+    "id": 4
   }
 ]

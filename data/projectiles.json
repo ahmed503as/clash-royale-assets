@@ -58,7 +58,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "KingProjectile",
@@ -117,7 +122,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "ArcherArrow",
@@ -177,7 +187,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "TowerPrincessProjectile",
@@ -237,7 +252,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "ArrowsSpell",
@@ -297,7 +317,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "ArrowsSpellDeco",
@@ -357,7 +382,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "TowerCannonball",
@@ -417,7 +447,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "MinionSpit",
@@ -477,7 +512,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "MortarProjectile",
@@ -493,7 +533,7 @@
     "homingMinDistance": 0,
     "hitEffect": "mortar_hit",
     "hitEffectAtProjectile": false,
-    "damage": 108,
+    "damage": 104,
     "crownTowerDamagePercent": 0,
     "pushback": 0,
     "pushbackAll": false,
@@ -537,7 +577,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "WitchProjectile",
@@ -596,7 +641,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BombSkeletonProjectile",
@@ -657,7 +707,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BombTowerProjectile",
@@ -718,7 +773,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "RocketSpell",
@@ -779,7 +839,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "GoblinBarrelSpell",
@@ -840,7 +905,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "MusketeerProjectile",
@@ -900,7 +970,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BabyDragonProjectile",
@@ -961,7 +1036,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "chr_wizardProjectile",
@@ -1020,7 +1100,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "xbow_projectile",
@@ -1080,7 +1165,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "LighningSpell",
@@ -1093,7 +1183,7 @@
     "homingMinDistance": 0,
     "hitEffect": "Spell_lightning_effect",
     "hitEffectAtProjectile": false,
-    "damage": 630,
+    "damage": 660,
     "crownTowerDamagePercent": -65,
     "pushback": 0,
     "pushbackAll": false,
@@ -1138,7 +1228,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "SpearGoblinProjectile",
@@ -1198,7 +1293,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "ice_wizardProjectile",
@@ -1259,7 +1359,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "RoyalGiantProjectile",
@@ -1319,7 +1424,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "PrincessProjectile",
@@ -1381,7 +1491,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "PrincessProjectileDeco",
@@ -1442,7 +1557,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "LavaHoundProjectile",
@@ -1503,7 +1623,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "LavaPupProjectile",
@@ -1564,7 +1689,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "FireSpiritsProjectile",
@@ -1580,7 +1710,7 @@
     "homingMinDistance": 0,
     "hitEffect": "firespirit_projectile_hit",
     "hitEffectAtProjectile": false,
-    "damage": 80,
+    "damage": 84,
     "crownTowerDamagePercent": 0,
     "pushback": 0,
     "pushbackAll": false,
@@ -1625,7 +1755,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "ZapMachineProjectile",
@@ -1685,7 +1820,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "SneakyArcherArrow",
@@ -1745,7 +1885,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BowlerProjectile",
@@ -1806,7 +1951,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "IceSpiritsProjectile",
@@ -1868,7 +2018,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "LogProjectile",
@@ -1930,7 +2085,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "LogProjectileRolling",
@@ -1993,7 +2153,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "MegaMinionSpit",
@@ -2053,7 +2218,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BlowdartGoblinProjectile",
@@ -2114,7 +2284,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "AxeManProjectile",
@@ -2176,7 +2351,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BatProjectile",
@@ -2235,7 +2415,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "GunnerProjectile",
@@ -2295,7 +2480,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "MovingCannonProjectile",
@@ -2355,7 +2545,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "DartBarrellProjectile",
@@ -2416,7 +2611,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "MegaKnightAppear",
@@ -2473,7 +2673,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BarbLogProjectile",
@@ -2523,7 +2728,7 @@
     "targetToEdge": false,
     "chainedHitRadius": 0,
     "chainedHitCount": 0,
-    "shakesTargets": false,
+    "shakesTargets": true,
     "shakesShooter": 0,
     "pingpongVisualTime": 0,
     "randomAngle": 0,
@@ -2535,7 +2740,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "BarbLogProjectileRolling",
@@ -2553,9 +2763,9 @@
     "hitEffect": "barb_barrel_hit",
     "hitEffectAtProjectile": false,
     "deathEffect": "barb_barrel_explosion",
-    "damage": 211,
-    "crownTowerDamagePercent": -65,
-    "pushback": 800,
+    "damage": 192,
+    "crownTowerDamagePercent": 0,
+    "pushback": 0,
     "pushbackAll": false,
     "radius": 0,
     "radiusY": 0,
@@ -2577,7 +2787,7 @@
     "projectileRadius": 1950,
     "projectileRadiusY": 600,
     "projectileStartExtraRadius": 0,
-    "projectileRange": 7000,
+    "projectileRange": 5000,
     "use360Frames": false,
     "minDistance": 2500,
     "maxDistance": 0,
@@ -2588,7 +2798,7 @@
     "targetToEdge": false,
     "chainedHitRadius": 0,
     "chainedHitCount": 0,
-    "shakesTargets": false,
+    "shakesTargets": true,
     "shakesShooter": 0,
     "pingpongVisualTime": 0,
     "randomAngle": 0,
@@ -2600,7 +2810,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "EliteArcherArrow",
@@ -2639,7 +2854,7 @@
     "trailEffect": "MagicArrowProjectile_blue",
     "projectileRadius": 250,
     "projectileRadiusY": 0,
-    "projectileStartExtraRadius": 0,
+    "projectileStartExtraRadius": 400,
     "projectileRange": 11000,
     "use360Frames": false,
     "minDistance": 0,
@@ -2663,7 +2878,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "HunterProjectile",
@@ -2699,7 +2919,7 @@
     "buffTimeIncreasePerLevel": 0,
     "projectileRadius": 300,
     "projectileRadiusY": 0,
-    "projectileStartExtraRadius": 200,
+    "projectileStartExtraRadius": 650,
     "projectileRange": 6500,
     "use360Frames": false,
     "minDistance": 0,
@@ -2724,7 +2944,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": true,
-    "randomDelay": 200
+    "randomDelay": 200,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "ZapSpiritProjectile",
@@ -2785,7 +3010,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "MegaCannonProjectile",
@@ -2845,7 +3075,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "CaptureTowerProjectile",
@@ -2905,7 +3140,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "RascalGirlProjectile",
@@ -2966,7 +3206,12 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
     "name": "SnowballSpell",
@@ -3029,28 +3274,32 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   },
   {
-    "name": "NOTINUSEP1",
-    "rarity": "Common",
-    "speed": 700,
-    "fileName": "sc/spell_snowball_dl.sc",
-    "exportName": "snowball_projectile",
-    "redExportName": "snowball_projectile_enemy",
-    "shadowExportName": "snowball_shadow",
+    "name": "REPLACEWAA",
+    "rarity": "Rare",
+    "speed": 600,
+    "fileName": "sc/effects.sc",
+    "exportName": "fireball_projectile1",
+    "shadowExportName": "projectile_arrow_shadow",
     "shadowDisableRotate": false,
-    "scale": 95,
+    "scale": 0,
     "homing": false,
     "homingTime": 0,
     "homingMinDistance": 0,
-    "hitEffect": "Snowball_ground",
+    "hitEffect": "Fireball_explosion",
     "hitEffectAtProjectile": false,
-    "damage": 50,
+    "damage": 325,
     "crownTowerDamagePercent": -65,
     "pushback": 1800,
     "pushbackAll": false,
-    "radius": 3000,
+    "radius": 2500,
     "radiusY": 0,
     "aoeToAir": true,
     "aoeToGround": true,
@@ -3062,10 +3311,9 @@
     "spawnCharacterDeployTime": 0,
     "spawnConstPriority": false,
     "spawnCharacterCount": 0,
-    "targetBuff": "IceWizardSlowDown",
-    "buffTime": 2000,
+    "buffTime": 0,
     "buffTimeIncreasePerLevel": 0,
-    "trailEffect": "snowball_continuous",
+    "trailEffect": "FireballEmitter",
     "projectileRadius": 0,
     "projectileRadiusY": 0,
     "projectileStartExtraRadius": 0,
@@ -3092,6 +3340,275 @@
     "variableDamage": 0,
     "variableDamageDistance": 0,
     "checkCollisions": false,
-    "randomDelay": 0
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
+  },
+  {
+    "name": "REPLACEEDP",
+    "rarity": "Rare",
+    "speed": 600,
+    "fileName": "sc/effects.sc",
+    "exportName": "fireball_projectile1",
+    "shadowExportName": "projectile_arrow_shadow",
+    "shadowDisableRotate": false,
+    "scale": 0,
+    "homing": false,
+    "homingTime": 0,
+    "homingMinDistance": 0,
+    "hitEffect": "Fireball_explosion",
+    "hitEffectAtProjectile": false,
+    "damage": 325,
+    "crownTowerDamagePercent": -65,
+    "pushback": 1800,
+    "pushbackAll": false,
+    "radius": 2500,
+    "radiusY": 0,
+    "aoeToAir": true,
+    "aoeToGround": true,
+    "onlyEnemies": true,
+    "onlyOwnTroops": false,
+    "maximumTargets": 0,
+    "gravity": 50,
+    "spawnCharacterLevelIndex": 0,
+    "spawnCharacterDeployTime": 0,
+    "spawnConstPriority": false,
+    "spawnCharacterCount": 0,
+    "buffTime": 0,
+    "buffTimeIncreasePerLevel": 0,
+    "trailEffect": "FireballEmitter",
+    "projectileRadius": 0,
+    "projectileRadiusY": 0,
+    "projectileStartExtraRadius": 0,
+    "projectileRange": 0,
+    "use360Frames": false,
+    "minDistance": 0,
+    "maxDistance": 0,
+    "constantHeight": 0,
+    "heightFromTargetRadius": false,
+    "heal": 0,
+    "crownTowerHealPercent": 0,
+    "targetToEdge": false,
+    "chainedHitRadius": 0,
+    "chainedHitCount": 0,
+    "shakesTargets": false,
+    "shakesShooter": 0,
+    "pingpongVisualTime": 0,
+    "randomAngle": 0,
+    "randomDistance": 0,
+    "randomOffset": 0,
+    "dragBackSpeed": 0,
+    "dragMargin": 0,
+    "damagingDistance": 0,
+    "variableDamage": 0,
+    "variableDamageDistance": 0,
+    "checkCollisions": false,
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
+  },
+  {
+    "name": "NOTINUSEP1",
+    "rarity": "Rare",
+    "speed": 600,
+    "fileName": "sc/effects.sc",
+    "exportName": "fireball_projectile1",
+    "shadowExportName": "projectile_arrow_shadow",
+    "shadowDisableRotate": false,
+    "scale": 0,
+    "homing": false,
+    "homingTime": 0,
+    "homingMinDistance": 0,
+    "hitEffect": "Fireball_explosion",
+    "hitEffectAtProjectile": false,
+    "damage": 325,
+    "crownTowerDamagePercent": -65,
+    "pushback": 1800,
+    "pushbackAll": false,
+    "radius": 2500,
+    "radiusY": 0,
+    "aoeToAir": true,
+    "aoeToGround": true,
+    "onlyEnemies": true,
+    "onlyOwnTroops": false,
+    "maximumTargets": 0,
+    "gravity": 50,
+    "spawnCharacterLevelIndex": 0,
+    "spawnCharacterDeployTime": 0,
+    "spawnConstPriority": false,
+    "spawnCharacterCount": 0,
+    "buffTime": 0,
+    "buffTimeIncreasePerLevel": 0,
+    "trailEffect": "FireballEmitter",
+    "projectileRadius": 0,
+    "projectileRadiusY": 0,
+    "projectileStartExtraRadius": 0,
+    "projectileRange": 0,
+    "use360Frames": false,
+    "minDistance": 0,
+    "maxDistance": 0,
+    "constantHeight": 0,
+    "heightFromTargetRadius": false,
+    "heal": 0,
+    "crownTowerHealPercent": 0,
+    "targetToEdge": false,
+    "chainedHitRadius": 0,
+    "chainedHitCount": 0,
+    "shakesTargets": false,
+    "shakesShooter": 0,
+    "pingpongVisualTime": 0,
+    "randomAngle": 0,
+    "randomDistance": 0,
+    "randomOffset": 0,
+    "dragBackSpeed": 0,
+    "dragMargin": 0,
+    "damagingDistance": 0,
+    "variableDamage": 0,
+    "variableDamageDistance": 0,
+    "checkCollisions": false,
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
+  },
+  {
+    "name": "NOTINUSEP2",
+    "rarity": "Rare",
+    "speed": 600,
+    "fileName": "sc/effects.sc",
+    "exportName": "fireball_projectile1",
+    "shadowExportName": "projectile_arrow_shadow",
+    "shadowDisableRotate": false,
+    "scale": 0,
+    "homing": false,
+    "homingTime": 0,
+    "homingMinDistance": 0,
+    "hitEffect": "Fireball_explosion",
+    "hitEffectAtProjectile": false,
+    "damage": 325,
+    "crownTowerDamagePercent": -65,
+    "pushback": 1800,
+    "pushbackAll": false,
+    "radius": 2500,
+    "radiusY": 0,
+    "aoeToAir": true,
+    "aoeToGround": true,
+    "onlyEnemies": true,
+    "onlyOwnTroops": false,
+    "maximumTargets": 0,
+    "gravity": 50,
+    "spawnCharacterLevelIndex": 0,
+    "spawnCharacterDeployTime": 0,
+    "spawnConstPriority": false,
+    "spawnCharacterCount": 0,
+    "buffTime": 0,
+    "buffTimeIncreasePerLevel": 0,
+    "trailEffect": "FireballEmitter",
+    "projectileRadius": 0,
+    "projectileRadiusY": 0,
+    "projectileStartExtraRadius": 0,
+    "projectileRange": 0,
+    "use360Frames": false,
+    "minDistance": 0,
+    "maxDistance": 0,
+    "constantHeight": 0,
+    "heightFromTargetRadius": false,
+    "heal": 0,
+    "crownTowerHealPercent": 0,
+    "targetToEdge": false,
+    "chainedHitRadius": 0,
+    "chainedHitCount": 0,
+    "shakesTargets": false,
+    "shakesShooter": 0,
+    "pingpongVisualTime": 0,
+    "randomAngle": 0,
+    "randomDistance": 0,
+    "randomOffset": 0,
+    "dragBackSpeed": 0,
+    "dragMargin": 0,
+    "damagingDistance": 0,
+    "variableDamage": 0,
+    "variableDamageDistance": 0,
+    "checkCollisions": false,
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
+  },
+  {
+    "name": "NOTINUSEP3",
+    "rarity": "Rare",
+    "speed": 600,
+    "fileName": "sc/effects.sc",
+    "exportName": "fireball_projectile1",
+    "shadowExportName": "projectile_arrow_shadow",
+    "shadowDisableRotate": false,
+    "scale": 0,
+    "homing": false,
+    "homingTime": 0,
+    "homingMinDistance": 0,
+    "hitEffect": "Fireball_explosion",
+    "hitEffectAtProjectile": false,
+    "damage": 325,
+    "crownTowerDamagePercent": -65,
+    "pushback": 1800,
+    "pushbackAll": false,
+    "radius": 2500,
+    "radiusY": 0,
+    "aoeToAir": true,
+    "aoeToGround": true,
+    "onlyEnemies": true,
+    "onlyOwnTroops": false,
+    "maximumTargets": 0,
+    "gravity": 50,
+    "spawnCharacterLevelIndex": 0,
+    "spawnCharacterDeployTime": 0,
+    "spawnConstPriority": false,
+    "spawnCharacterCount": 0,
+    "buffTime": 0,
+    "buffTimeIncreasePerLevel": 0,
+    "trailEffect": "FireballEmitter",
+    "projectileRadius": 0,
+    "projectileRadiusY": 0,
+    "projectileStartExtraRadius": 0,
+    "projectileRange": 0,
+    "use360Frames": false,
+    "minDistance": 0,
+    "maxDistance": 0,
+    "constantHeight": 0,
+    "heightFromTargetRadius": false,
+    "heal": 0,
+    "crownTowerHealPercent": 0,
+    "targetToEdge": false,
+    "chainedHitRadius": 0,
+    "chainedHitCount": 0,
+    "shakesTargets": false,
+    "shakesShooter": 0,
+    "pingpongVisualTime": 0,
+    "randomAngle": 0,
+    "randomDistance": 0,
+    "randomOffset": 0,
+    "dragBackSpeed": 0,
+    "dragMargin": 0,
+    "damagingDistance": 0,
+    "variableDamage": 0,
+    "variableDamageDistance": 0,
+    "checkCollisions": false,
+    "randomDelay": 0,
+    "angularDelay": 0,
+    "startCircleRadius": 0,
+    "targetCircleRadius": 0,
+    "circleSpeed": 0,
+    "pingpongMovingShooter": 0
   }
 ]

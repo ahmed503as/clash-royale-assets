@@ -49,7 +49,8 @@
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
     "TID": "TID_PUBLIC_TOURNAMENT_GOLD",
-    "scid": 65000000
+    "scid": 65000000,
+    "id": 0
   },
   {
     "name": "Bronze",
@@ -101,7 +102,8 @@
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
     "TID": "TID_PUBLIC_TOURNAMENT_BRONZE",
-    "scid": 65000001
+    "scid": 65000001,
+    "id": 1
   },
   {
     "name": "KingsCup",
@@ -152,7 +154,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_blind_challenge_confirm",
-    "scid": 65000002
+    "scid": 65000002,
+    "id": 2
   },
   {
     "name": "DoubleElixir",
@@ -203,7 +206,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_2x_elixir_challenge_confirm",
-    "scid": 65000003
+    "scid": 65000003,
+    "id": 3
   },
   {
     "name": "BlindDeck",
@@ -254,7 +258,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_blind_challenge_confirm",
-    "scid": 65000004
+    "scid": 65000004,
+    "id": 4
   },
   {
     "name": "DraftMode",
@@ -305,7 +310,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000005
+    "scid": 65000005,
+    "id": 5
   },
   {
     "name": "ThreeBridges",
@@ -356,7 +362,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000006
+    "scid": 65000006,
+    "id": 6
   },
   {
     "name": "HeroChallenge",
@@ -407,7 +414,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000007
+    "scid": 65000007,
+    "id": 7
   },
   {
     "name": "ElectroWiz",
@@ -486,7 +494,8 @@
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_legendary_challenge_confirm",
     "cardTheme": "ElectroWizard",
-    "scid": 65000008
+    "scid": 65000008,
+    "id": 8
   },
   {
     "name": "DraftMode2",
@@ -537,7 +546,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000009
+    "scid": 65000009,
+    "id": 9
   },
   {
     "name": "BattleRamClassic",
@@ -615,7 +625,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_legendary_challenge_confirm",
-    "scid": 65000010
+    "scid": 65000010,
+    "id": 10
   },
   {
     "name": "BattleRamGrand",
@@ -693,7 +704,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_legendary_challenge_confirm",
-    "scid": 65000011
+    "scid": 65000011,
+    "id": 11
   },
   {
     "name": "DraftModeInsane",
@@ -744,7 +756,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000012
+    "scid": 65000012,
+    "id": 12
   },
   {
     "name": "Team",
@@ -795,7 +808,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000013
+    "scid": 65000013,
+    "id": 13
   },
   {
     "name": "RetroRoyale",
@@ -846,7 +860,8 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000014
+    "scid": 65000014,
+    "id": 14
   },
   {
     "name": "TeamVsEnemy",
@@ -897,6 +912,7 @@
     "rewardSpellMaxCount": 0,
     "itemExportName": "tournament_item_open",
     "confirmExportName": "popup_tournament_open_confirm",
-    "scid": 65000015
+    "scid": 65000015,
+    "id": 15
   }
 ]
